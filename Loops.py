@@ -46,7 +46,7 @@ In Python, the built-in range() function can be used to create a sequence of int
 This sequence can be iterated over through a loop. 
 
 A range is specified in the following format:
-range(start, end, step)
+range(start, end+1, step)
 
 'The end' value is not included in the list.
 
