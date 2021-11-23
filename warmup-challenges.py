@@ -65,6 +65,17 @@ n=7
 Sample output
 8
 """
-
+#<h3> Answer</h3>
+#def fib(n):
+   # a=0
+   # b=1
+   # print(a)
+   # print(b)
+   # for iin range (2,n):
+     # c=a+b
+     # a=b
+     # b=c
+     # print(c)
+  
 
 
