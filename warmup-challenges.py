@@ -4,6 +4,8 @@
 # Write a program that prints out all the elements of the list "numbers" that are less than 5.
 numbers = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
 
+## Answer
+
 
 #Challenge 2:
 #Write a Python program which will return true if the two given integer values are equal or their sum or difference is 5.
@@ -65,6 +67,20 @@ n=7
 Sample output
 8
 """
+#def fib(n):
+    #a=0
+    #b=1
+    #if n==0 or n==1:
+        #print(1)
+    #else: 
+        #print(a)
+        #print(b)
+        #for i in range(n):
+            #c=a+b
+            #a=b
+            #b=c
+            #print(c)
 
+#fib(10)
 
 
